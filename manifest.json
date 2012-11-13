@@ -20,7 +20,8 @@
     "scripts": [
       "scripts/popup.js",
       "scripts/jquery-ui.min.js",
-      "scripts/jquery.dataTables.min.js"
+      "scripts/jquery.dataTables.min.js",
+      "scripts/jquery.Storage.js"
     ]
   },
   "manifest_version": 2,
